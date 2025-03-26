@@ -1,3 +1,5 @@
+Incorporated data analysis techniques, specialising in Time Series Analysis, to deliver valuable insights, accurate Sales Forecasting, and Interactive Dashboard creation, driving business success.
+
 Dynamic Analysis:
 
 Most Ordered Item: Filtered by Year and Country.
